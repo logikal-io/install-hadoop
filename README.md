@@ -22,7 +22,7 @@ module](https://mvnrepository.com/artifact/org.apache.hadoop/hadoop-aws) version
 
 `aws-java-sdk-version`: Optional, but required when `aws-module-version` is specified: the AWS Java
 SDK bundle version that was used to compile the Hadoop AWS module (it is listed under the "Compile
-Depencies").
+Dependencies").
 
 License
 -------
