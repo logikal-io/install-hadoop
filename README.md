@@ -6,7 +6,7 @@ Usage
 -----
 ```yaml
 steps:
-  - uses: logikal-io/install-hadoop@{release}
+  - uses: logikal-io/install-hadoop@v1
     with:
       version: {version}
 ```
